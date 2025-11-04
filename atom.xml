@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-11-04T10:06:16.467Z</updated>
+  <updated>2025-11-04T10:42:10.394Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>铜业笔记</title>
+    <link href="http://example.com/2025/11/04/%E9%93%9C%E4%B8%9A%E7%AC%94%E8%AE%B0/"/>
+    <id>http://example.com/2025/11/04/%E9%93%9C%E4%B8%9A%E7%AC%94%E8%AE%B0/</id>
+    <published>2025-11-04T10:40:11.000Z</published>
+    <updated>2025-11-04T10:42:10.394Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是我的第一篇 Hexo 文章。<br>可以写 <strong>加粗</strong>、<em>斜体</em>，以及插入图片、代码块等。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是我的第一篇 Hexo 文章。&lt;br&gt;可以写 &lt;strong&gt;加粗&lt;/strong&gt;、&lt;em&gt;斜体&lt;/em&gt;，以及插入图片、代码块等。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
