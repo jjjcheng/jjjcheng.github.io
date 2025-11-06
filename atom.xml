@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-11-06T08:40:30.258Z</updated>
+  <updated>2025-11-06T09:06:37.610Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>盘整区跌破收回的案例</title>
+    <link href="http://example.com/2025/11/06/%E7%9B%98%E6%95%B4%E5%8C%BA%E8%B7%8C%E7%A0%B4%E6%94%B6%E5%9B%9E%E7%9A%84%E6%A1%88%E4%BE%8B/"/>
+    <id>http://example.com/2025/11/06/%E7%9B%98%E6%95%B4%E5%8C%BA%E8%B7%8C%E7%A0%B4%E6%94%B6%E5%9B%9E%E7%9A%84%E6%A1%88%E4%BE%8B/</id>
+    <published>2025-11-06T09:01:42.000Z</published>
+    <updated>2025-11-06T09:06:37.610Z</updated>
+    
+    <content type="html"><![CDATA[<p>1.巨化股份<br><img src="https://benjiimg.oss-cn-hangzhou.aliyuncs.com/blog/images/20251106170308527.png" ></p><p>2.北方铜业<br><img src="https://benjiimg.oss-cn-hangzhou.aliyuncs.com/blog/images/20251106170607713.png" ></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;1.巨化股份&lt;br&gt;&lt;img src=&quot;https://benjiimg.oss-cn-hangzhou.aliyuncs.com/blog/images/20251106170308527.png&quot; &gt;&lt;/p&gt;
+&lt;p&gt;2.北方铜业&lt;br&gt;&lt;img src=&quot;https:/</summary>
+      
+    
+    
+    
+    
+    <category term="复盘" scheme="http://example.com/tags/%E5%A4%8D%E7%9B%98/"/>
+    
+  </entry>
   
   <entry>
     <title>锂电</title>
