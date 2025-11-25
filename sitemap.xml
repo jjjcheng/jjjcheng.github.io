@@ -65,7 +65,7 @@
 
   
   <url>
-    <loc>http://example.com/tags/%E5%A4%8D%E7%9B%98/</loc>
+    <loc>http://example.com/tags/%E5%91%A8%E6%9C%AB%E9%80%89%E8%82%A1/</loc>
     <lastmod>2025-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -86,7 +86,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%91%A8%E6%9C%AB%E9%80%89%E8%82%A1/</loc>
+    <loc>http://example.com/tags/%E5%A4%8D%E7%9B%98/</loc>
     <lastmod>2025-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
