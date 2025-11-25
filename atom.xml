@@ -48,9 +48,9 @@
     
     
     
-    <category term="周末选股" scheme="http://example.com/tags/%E5%91%A8%E6%9C%AB%E9%80%89%E8%82%A1/"/>
-    
     <category term="交易计划" scheme="http://example.com/tags/%E4%BA%A4%E6%98%93%E8%AE%A1%E5%88%92/"/>
+    
+    <category term="周末选股" scheme="http://example.com/tags/%E5%91%A8%E6%9C%AB%E9%80%89%E8%82%A1/"/>
     
   </entry>
   
