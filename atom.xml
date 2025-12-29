@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-12-29T06:54:23.213Z</updated>
+  <updated>2025-12-29T07:05:33.000Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,23 +21,15 @@
     <link href="http://example.com/2025/12/29/vocabulary/"/>
     <id>http://example.com/2025/12/29/vocabulary/</id>
     <published>2025-12-29T06:50:54.000Z</published>
-    <updated>2025-12-29T06:54:23.213Z</updated>
+    <updated>2025-12-29T07:05:33.000Z</updated>
     
-    <content type="html"><![CDATA[<table><thead><tr><th align="center">词汇</th><th align="center">释义</th><th align="center">例句</th></tr></thead><tbody><tr><td align="center">withdrawal</td><td align="center">14.9</td><td align="center">15%</td></tr><tr><td align="center">commission</td><td align="center">14.9</td><td align="center">15%</td></tr><tr><td align="center">potential</td><td align="center">14.9</td><td align="center">15%</td></tr><tr><td align="center">dispose</td><td align="center">14.9</td><td align="center">15%</td></tr><tr><td align="center">vulnerability</td><td align="center">14.9</td><td align="center">15%</td></tr><tr><td align="center">ambiguous</td><td align="center">14.9</td><td align="center">15%</td></tr><tr><td align="center">remuneration</td><td align="center">14.9</td><td align="center">15%</td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<ul style="display: grid; grid-template-columns: repeat(4, 1fr); list-style: none; padding: 0; margin: 0; gap: 10px;"><li style="text-align: center; font-weight: bold; font-size: 16px;">withdrawal</li><li style="text-align: center; font-weight: bold; font-size: 16px;">commission</li><li style="text-align: center; font-weight: bold; font-size: 16px;">potential</li><li style="text-align: center; font-weight: bold; font-size: 16px;">dispose</li><li style="text-align: center; font-weight: bold; font-size: 16px;">vulnerability</li><li style="text-align: center; font-weight: bold; font-size: 16px;">ambiguous</li><li style="text-align: center; font-weight: bold; font-size: 16px;">remuneration</li><li style="text-align: center; font-weight: bold; font-size: 16px;">vocation</li><li style="text-align: center; font-weight: bold; font-size: 16px;">refrain</li><li style="text-align: center; font-weight: bold; font-size: 16px;">congee</li><li style="text-align: center; font-weight: bold; font-size: 16px;">sustain</li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&quot;center&quot;&gt;词汇&lt;/th&gt;
-&lt;th align=&quot;center&quot;&gt;释义&lt;/th&gt;
-&lt;th align=&quot;center&quot;&gt;例句&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td align=&quot;</summary>
+    <summary type="html">&lt;ul style=&quot;display: grid; grid-template-columns: repeat(4, 1fr); list-style: none; padding: 0; margin: 0; gap: 10px;&quot;&gt;
+&lt;li style=&quot;text-align</summary>
       
     
     
