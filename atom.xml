@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-12-30T05:52:15.195Z</updated>
+  <updated>2025-12-30T09:32:40.924Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2025/12/29/vocabulary/"/>
     <id>http://example.com/2025/12/29/vocabulary/</id>
     <published>2025-12-29T06:50:54.000Z</published>
-    <updated>2025-12-30T05:52:15.195Z</updated>
+    <updated>2025-12-30T09:32:40.924Z</updated>
     
-    <content type="html"><![CDATA[<ul style="display: grid; grid-template-columns: repeat(3, 1fr); list-style: none; padding: 0; margin: 0; gap: 10px;"><li style="text-align: center; font-weight: bold; font-size: 16px;">withdrawal 提现</li><li style="text-align: center; font-weight: bold; font-size: 16px;">commission 佣金</li><li style="text-align: center; font-weight: bold; font-size: 16px;">potential 潜在的</li><li style="text-align: center; font-weight: bold; font-size: 16px;">dispose 丢弃</li><li style="text-align: center; font-weight: bold; font-size: 16px;">vulnerability 易受伤害的（玻璃心）</li><li style="text-align: center; font-weight: bold; font-size: 16px;">ambiguous 模棱两可的</li><li style="text-align: center; font-weight: bold; font-size: 16px;">remuneration 工资</li><li style="text-align: center; font-weight: bold; font-size: 16px;">vocation 职业</li><li style="text-align: center; font-weight: bold; font-size: 16px;">refrain 抑制</li><li style="text-align: center; font-weight: bold; font-size: 16px;">congee 稀饭</li><li style="text-align: center; font-weight: bold; font-size: 16px;">sustain 维持/保持/支撑</li><li style="text-align: center; font-weight: bold; font-size: 16px;">profundity 深刻的（文学或是想）</li><li style="text-align: center; font-weight: bold; font-size: 16px;">obtain 获得（比get正式）</li><li style="text-align: center; font-weight: bold; font-size: 16px;">rebellion 叛乱/反抗</li><li style="text-align: center; font-weight: bold; font-size: 16px;">obstacle 障碍</li><li style="text-align: center; font-weight: bold; font-size: 16px;">eloquence 口才</li><li style="text-align: center; font-weight: bold; font-size: 16px;">scapegoat 替罪羊</li><li style="text-align: center; font-weight: bold; font-size: 16px;">lottery 摇奖/彩票</li></ul>]]></content>
+    <content type="html"><![CDATA[<ul style="display: grid; grid-template-columns: repeat(3, 1fr); list-style: none; padding: 0; margin: 0; gap: 10px;"><li style="text-align: center; font-weight: bold; font-size: 16px;">withdrawal 提现</li><li style="text-align: center; font-weight: bold; font-size: 16px;">commission 佣金</li><li style="text-align: center; font-weight: bold; font-size: 16px;">potential 潜在的</li><li style="text-align: center; font-weight: bold; font-size: 16px;">dispose 丢弃</li><li style="text-align: center; font-weight: bold; font-size: 16px;">vulnerability 易受伤害的（玻璃心）</li><li style="text-align: center; font-weight: bold; font-size: 16px;">ambiguous 模棱两可的</li><li style="text-align: center; font-weight: bold; font-size: 16px;">remuneration 工资</li><li style="text-align: center; font-weight: bold; font-size: 16px;">vocation 职业</li><li style="text-align: center; font-weight: bold; font-size: 16px;">refrain 抑制</li><li style="text-align: center; font-weight: bold; font-size: 16px;">congee 稀饭</li><li style="text-align: center; font-weight: bold; font-size: 16px;">sustain 维持/保持/支撑</li><li style="text-align: center; font-weight: bold; font-size: 16px;">profundity 深刻的（文学或是想）</li><li style="text-align: center; font-weight: bold; font-size: 16px;">obtain 获得（比get正式）</li><li style="text-align: center; font-weight: bold; font-size: 16px;">rebellion 叛乱/反抗</li><li style="text-align: center; font-weight: bold; font-size: 16px;">obstacle 障碍</li><li style="text-align: center; font-weight: bold; font-size: 16px;">eloquence 口才</li><li style="text-align: center; font-weight: bold; font-size: 16px;">scapegoat 替罪羊</li><li style="text-align: center; font-weight: bold; font-size: 16px;">lottery 摇奖/彩票</li><li style="text-align: center; font-weight: bold; font-size: 16px;">novice 新手</li></ul>]]></content>
     
     
       
@@ -117,9 +117,9 @@
     
     
     
-    <category term="周末选股" scheme="http://example.com/tags/%E5%91%A8%E6%9C%AB%E9%80%89%E8%82%A1/"/>
-    
     <category term="交易计划" scheme="http://example.com/tags/%E4%BA%A4%E6%98%93%E8%AE%A1%E5%88%92/"/>
+    
+    <category term="周末选股" scheme="http://example.com/tags/%E5%91%A8%E6%9C%AB%E9%80%89%E8%82%A1/"/>
     
   </entry>
   
