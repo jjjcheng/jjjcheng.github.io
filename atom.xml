@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2026-01-07T02:47:32.020Z</updated>
+  <updated>2026-01-07T03:17:00.418Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2026/01/07/vocabulary-26%E5%B9%B41%E6%9C%88/"/>
     <id>http://example.com/2026/01/07/vocabulary-26%E5%B9%B41%E6%9C%88/</id>
     <published>2026-01-07T02:29:57.000Z</published>
-    <updated>2026-01-07T02:47:32.020Z</updated>
+    <updated>2026-01-07T03:17:00.418Z</updated>
     
-    <content type="html"><![CDATA[<ul style="display: grid; grid-template-columns: repeat(3, 1fr); list-style: none; padding: 0; margin: 0; gap: 10px;"><li style="text-align: center; font-weight: bold; font-size: 16px;">insomnia 失眠</li><li style="text-align: center; font-weight: bold; font-size: 16px;">surge 激增/拉升</li><li style="text-align: center; font-weight: bold; font-size: 16px;">pomelo 柚子</li><li style="text-align: center; font-weight: bold; font-size: 16px;">organ 气管/感官</li><li style="text-align: center; font-weight: bold; font-size: 16px;">decent 体面的/像样的</li><li style="text-align: center; font-weight: bold; font-size: 16px;">domain 域名/领域/范畴</li><li style="text-align: center; font-weight: bold; font-size: 16px;">embarrassing 难言之隐/尴尬的</li><li style="text-align: center; font-weight: bold; font-size: 16px;">folks 人们/大伙/家人们</li></ul>]]></content>
+    <content type="html"><![CDATA[<ul style="display: grid; grid-template-columns: repeat(3, 1fr); list-style: none; padding: 0; margin: 0; gap: 10px;"><li style="text-align: center; font-weight: bold; font-size: 16px;">insomnia 失眠</li><li style="text-align: center; font-weight: bold; font-size: 16px;">surge 激增/拉升</li><li style="text-align: center; font-weight: bold; font-size: 16px;">pomelo 柚子</li><li style="text-align: center; font-weight: bold; font-size: 16px;">organ 气管/感官</li><li style="text-align: center; font-weight: bold; font-size: 16px;">decent 体面的/像样的</li><li style="text-align: center; font-weight: bold; font-size: 16px;">domain 域名/领域/范畴</li><li style="text-align: center; font-weight: bold; font-size: 16px;">embarrassing 难言之隐/尴尬的</li><li style="text-align: center; font-weight: bold; font-size: 16px;">folks 人们/大伙/家人们</li><li style="text-align: center; font-weight: bold; font-size: 16px;">handy 好用的/顺手的</li><li style="text-align: center; font-weight: bold; font-size: 16px;">frequent 常见的/频繁的</li><li style="text-align: center; font-weight: bold; font-size: 16px;">pit n.坑/陷阱 v.陷害/挖坑</li><li style="text-align: center; font-weight: bold; font-size: 16px;">flaw 缺陷/毛病</li></ul>]]></content>
     
     
       
@@ -142,9 +142,9 @@
     
     
     
-    <category term="周末选股" scheme="http://example.com/tags/%E5%91%A8%E6%9C%AB%E9%80%89%E8%82%A1/"/>
-    
     <category term="交易计划" scheme="http://example.com/tags/%E4%BA%A4%E6%98%93%E8%AE%A1%E5%88%92/"/>
+    
+    <category term="周末选股" scheme="http://example.com/tags/%E5%91%A8%E6%9C%AB%E9%80%89%E8%82%A1/"/>
     
   </entry>
   
