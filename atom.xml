@@ -128,9 +128,9 @@
     
     
     
-    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
-    
     <category term="玄学" scheme="http://example.com/tags/%E7%8E%84%E5%AD%A6/"/>
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
@@ -153,9 +153,9 @@
     
     
     
-    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
-    
     <category term="玄学" scheme="http://example.com/tags/%E7%8E%84%E5%AD%A6/"/>
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
