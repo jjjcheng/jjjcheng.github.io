@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2026-03-24T08:54:35.735Z</updated>
+  <updated>2026-03-24T08:55:41.671Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,15 +21,16 @@
     <link href="http://example.com/2026/03/24/%E7%83%9F%E9%9B%A8%E4%B8%89%E6%9C%88/"/>
     <id>http://example.com/2026/03/24/%E7%83%9F%E9%9B%A8%E4%B8%89%E6%9C%88/</id>
     <published>2026-03-24T08:53:53.000Z</published>
-    <updated>2026-03-24T08:54:35.735Z</updated>
+    <updated>2026-03-24T08:55:41.671Z</updated>
     
-    <content type="html"><![CDATA[<p>“一蓑烟雨任平生”</p>]]></content>
+    <content type="html"><![CDATA[<p>“一蓑烟雨任平生”<br>很多人读出的是旷达，但若说没有一点“事已至此”的无奈，那是自欺。人被逼到角落，总要给自己找一个站得住的姿态。</p><p>我之所以反复想起这句，其实不是因为“任平生”，而是因为“烟雨”。</p><p>在东坡那里，这一蓑烟雨，多少带着不得志与自遣；可换个角度看，“烟雨”本身，并不是随处可得的东西。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;“一蓑烟雨任平生”&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;“一蓑烟雨任平生”&lt;br&gt;很多人读出的是旷达，但若说没有一点“事已至此”的无奈，那是自欺。人被逼到角落，总要给自己找一个站得住的姿态。&lt;/p&gt;
+&lt;p&gt;我之所以反复想起这句，其实不是因为“任平生”，而是因为“烟雨”。&lt;/p&gt;
+&lt;p&gt;在东坡那里，这一蓑烟雨，多少带着不得志与自遣</summary>
       
     
     
@@ -102,9 +103,9 @@
     
     
     
-    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
-    
     <category term="玄学" scheme="http://example.com/tags/%E7%8E%84%E5%AD%A6/"/>
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
