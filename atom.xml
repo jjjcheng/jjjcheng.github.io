@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2026-02-11T09:47:20.735Z</updated>
+  <updated>2026-03-24T08:54:35.735Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>烟雨三月</title>
+    <link href="http://example.com/2026/03/24/%E7%83%9F%E9%9B%A8%E4%B8%89%E6%9C%88/"/>
+    <id>http://example.com/2026/03/24/%E7%83%9F%E9%9B%A8%E4%B8%89%E6%9C%88/</id>
+    <published>2026-03-24T08:53:53.000Z</published>
+    <updated>2026-03-24T08:54:35.735Z</updated>
+    
+    <content type="html"><![CDATA[<p>“一蓑烟雨任平生”</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;“一蓑烟雨任平生”&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>心法:用心如镜</title>
