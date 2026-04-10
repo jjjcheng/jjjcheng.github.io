@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2026-04-10T09:32:00.557Z</updated>
+  <updated>2026-04-10T09:32:37.537Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2026/04/10/%E8%AE%BA%E8%AF%AD6-8-%E7%B4%A0%E4%BD%8D%E8%80%8C%E8%A1%8C/"/>
     <id>http://example.com/2026/04/10/%E8%AE%BA%E8%AF%AD6-8-%E7%B4%A0%E4%BD%8D%E8%80%8C%E8%A1%8C/</id>
     <published>2026-04-10T09:22:01.000Z</published>
-    <updated>2026-04-10T09:32:00.557Z</updated>
+    <updated>2026-04-10T09:32:37.537Z</updated>
     
     <content type="html"><![CDATA[<p><em>伯牛有疾，子问之，自牖执其手，曰：“亡之，命矣夫！斯人也而有斯疾也！斯人也而有斯疾也！</em></p><hr><p>译文：伯牛是孔子门徒中德行优秀的人，但也得了绝症。孔子去探望他时，不断发出感慨：“难道这就是命吗？这样的人为什么会生这样的疾病呢？”</p><p>学校书本里解读的论语，大多把孔子谈到”命“的部分弱化，甚至用其他话语来曲解孔子的意思。孔子这里所说的命，就是我们现在所说的<strong>命运</strong>意思。</p>]]></content>
     
@@ -37,7 +37,7 @@
     
     
     
-    <category term="-随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
